@@ -11,6 +11,7 @@
     <header id="top">
       <h1>Prework Study Guide</h1>
       <img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." />
+      <h2>✨ Open the Console to See What's Happening ✨</h2>
     </header>
     <main>
       <section class="card" id="html-section">
@@ -91,12 +92,42 @@
       <section class="card" id="javascript-section">
         <h2>JavaScript</h2>
         <ul>
-          <li>Enter your JavaScript notes here</li>
+          <li>A variable is a named container that allows us to store data in our code.</li>
+          <li>Control flow is the order in which a computer executes code in a script.</li>
+          <li>A for loop contains the following three important statements:</li>
+          <li>FIRST STATEMENT determines the starting point for our loop
+            start at the beginning of the array and declare a variable x and give it a value of 0 (because the first index of an array is always 0), 
+            as shown in the following line of code:
+            var x = 0;</li>
+            <li>SECOND STATEMENT is the condition
+            As long as the number in the variable x is less than the length of the array, 
+            the loop will keep running. This will allow the loop to execute one time for each item in the array
+            use the length built-in array property on our shapes array to express that condition, 
+            as shown in the following line of code:
+            x < shapes.length;</li>
+            <li>FINAL STATEMENT allows the array to iterate over each item
+            Since indices follow a predictable pattern, we know the number increases by 1 each time
+            The code x++ is a shortcut way of writing x+1
+            Now every time the code loops, x will increase by 1: as shown in the following line of code:
+            x++</li>
+            <li>var shapes = ["triangle", "square", "pentagon", "circle"];</li>
+            <li>this array above only contains strings</li>
+            <li>var studentInfo = ["lu", 54, true];</li>
+            <li>this array above contains a string, a number, and a Boolean value</li>
+            <li>only the student's name, "Lu", is surrounded by quotation marks. 
+              That is because Lu is a string, and strings need to be contained within quotation marks. 
+              Since 54 is a number and true is a Boolean value, no quotation marks are necessary</li>
+            <li>function showTopic(); .. this CREATES a function</li>
+            <li>showTopic(); .. CALLS the the function.. functions must be called to be used</li>
+            <li>// .. creates single line comment</li>
+            <li>/*  */ .. creates multiline comment</li>
+            <li>Control flow dictates that JavaScript files are executed from top to bottom, order matters</li>
       </section>
     </main>
 
     <footer>
       <p>I can code!</p>
     </footer>
+    <script src="./assets/script.js"></script>
   </body>
 </html>
