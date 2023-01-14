@@ -1,12 +1,12 @@
 
 # == WEB STARTER ==
-WEB STARTER
-Contrtibutors: Christopher Ezidinma
-Donate Link: n/a
-Tags: plugin, studytime, coding
-Requires at Least: n/a
-Tested Up To: n/a
-Stable Tag: n/a
+- WEB STARTER
+- Contrtibutors: Christopher Ezidinma
+- Donate Link: n/a
+- Tags: plugin, studytime, coding
+- Requires at Least: n/a
+- Tested Up To: n/a
+- Stable Tag: n/a
 
 ## Description
 Web Starter is a beginner friendly framework and series of sub-systems that helps you understand a beginner friendly web-development topic at random. Feeling like a newborn web developer can be daunting at times. A great thing about newborns is the fact that they will grow. Whats even better is that newborns grow quite fast! Every developer must start somwhere and having some guidance along the way is unarguably benifitial. 
@@ -26,8 +26,8 @@ N/A
 
 ## Credits
 
-Christopher Ezidinma (https://github.com/vloneslug)
-University Of Richmond Bootcamps (https://bootcamps.richmond.edu/)
+- Christopher Ezidinma (https://github.com/vloneslug)
+- University Of Richmond Bootcamps (https://bootcamps.richmond.edu/)
 
 ## License
 MIT License
